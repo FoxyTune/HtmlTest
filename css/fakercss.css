@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:url("../material/img/95856586.jpg");
+	background-size: cover;
+}
+#c{
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 10%;
+	background-color:hsla(335,78%,91%,0.33);
+
+}
+#tupian{
+	float: left;
+	width: 300px;
+	height: 460px
+}
+#kazu{
+	float: left;
+	width: 500px;
+	height: 200px;
+	margin-top: 190px;
+	margin-left: 40px;
+	border-style:groove;
+	border-color:hsla(200,100%,75%,0.64);
+	border-width: 5px;
+	background-color: hsla(57,76%,90%,0.56);
+}
+#jieshao{
+	width: 880px;
+	margin-top: 40%;
+	border-style:groove;
+	border-color:hsla(200,100%,75%,0.64);
+	border-width: 5px;
+	background-color: hsla(57,73%,90%,0.56);
+}
+
+
+
+
+
+
